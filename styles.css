@@ -184,7 +184,7 @@ animation: textup 12s linear infinite;
     margin-top:10px;
     font-family: sans-serif;
     font-size: 14px;
-    animation: textup 12s linear infinite;
+    animation: textup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes textup{
@@ -202,7 +202,7 @@ animation: textup 12s linear infinite;
 #promo-img{
     margin-top: 10px;
     margin-left: -15px;
-    animation: imageup 12s linear infinite;
+    animation: imageup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes imageup{
@@ -231,7 +231,7 @@ animation: textup 12s linear infinite;
     margin-top: 115px;
     margin-left: 400px;
     margin-right: 50px;
-    animation: imageup 12s linear infinite;
+    animation: imageup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes imageup{
@@ -304,7 +304,7 @@ margin-left: -150px;
     margin-top: 100px;
     padding: 40px;
     background-image:linear-gradient(rgb(190, 188, 188),rgb(190, 188, 188)),url(images/dna.jpg);
-    animation: textup 12s linear infinite;
+    animation: textup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes textup{
@@ -476,7 +476,7 @@ margin-left: -150px;
     padding: 75px;
     text-align: center;
     background-color: rgb(246, 246, 246);
-    animation: textup 12s linear infinite;
+    animation: textup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes textup{
@@ -557,7 +557,7 @@ margin-left: -150px;
 .promos{
     padding: 40px;
     background-color:rgb(7, 26, 109); 
-    animation: textup 12s linear infinite;
+    animation: textup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes textup{
@@ -596,7 +596,7 @@ margin-left: -150px;
     padding-top: 50px;
     padding-left: 280px;
     padding-right: 280px;
-    animation: textup 12s linear infinite;
+    animation: textup 60s linear infinite;
     transform: translateY(100px);
 }
 @keyframes textup{
